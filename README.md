@@ -7,6 +7,5 @@
 
 __*MySQL is an open-source relational database management system.*__
 
-```
-It's name is a combination of "My" and "SQL".
-```
+> It's name is a combination of "My" and "SQL".
+
