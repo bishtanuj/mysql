@@ -5,4 +5,4 @@
 
 # MySQL
 
-MySQL is an open-source relational database management system.
+__*MySQL is an open-source relational database management system.*__
