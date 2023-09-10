@@ -9,4 +9,5 @@ __*MySQL is an open-source relational database management system.*__
 
 > __*It's name is a combination of "My" and "SQL". Where "My" is the name of co-founder Micheal Widenius's daughter My, and "SQL", is the acronym for Structured Query Language.*__
 
+
 ---
