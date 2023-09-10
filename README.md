@@ -3,7 +3,7 @@
 [![Forks](https://img.shields.io/github/forks/bishtanuj/mysql?style=for-the-badge)](./FORKS)
 [![Stars](https://img.shields.io/github/stars/bishtanuj/mysql?style=for-the-badge)](./STARS)
 
-# MySQL
+# *MySQL*
 
 __*MySQL is an open-source relational database management system.*__
 
